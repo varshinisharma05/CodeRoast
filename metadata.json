@@ -1,0 +1,5 @@
+{
+  "name": "The Code Roaster Bot 9000",
+  "description": "A grumpy, sarcastic bot that roasts your code and provides a cleaned-up version using the Gemini API.",
+  "requestFramePermissions": []
+}
